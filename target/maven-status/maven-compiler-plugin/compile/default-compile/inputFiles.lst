@@ -1,0 +1,12 @@
+D:\JavaNewLife\crowdfunding-manager\src\main\java\cn\myh\crowdfunding\controller\DispatcherController.java
+D:\JavaNewLife\crowdfunding-manager\src\main\java\cn\myh\crowdfunding\domain\User.java
+D:\JavaNewLife\crowdfunding-manager\src\main\java\cn\myh\crowdfunding\dao\UserDao.java
+D:\JavaNewLife\crowdfunding-manager\src\main\java\cn\myh\crowdfunding\service\UserService.java
+D:\JavaNewLife\crowdfunding-manager\src\main\java\cn\myh\crowdfunding\web\listener\ServerStartUpListener.java
+D:\JavaNewLife\crowdfunding-manager\src\main\java\cn\myh\crowdfunding\domain\Page.java
+D:\JavaNewLife\crowdfunding-manager\src\main\java\cn\myh\crowdfunding\controller\RoleController.java
+D:\JavaNewLife\crowdfunding-manager\src\main\java\cn\myh\crowdfunding\controller\PermissionController.java
+D:\JavaNewLife\crowdfunding-manager\src\main\java\cn\myh\crowdfunding\controller\UserController.java
+D:\JavaNewLife\crowdfunding-manager\src\main\java\cn\myh\crowdfunding\service\impl\UserServiceImpl.java
+D:\JavaNewLife\crowdfunding-manager\src\main\java\cn\myh\crowdfunding\service\UserException.java
+D:\JavaNewLife\crowdfunding-manager\src\main\java\cn\myh\crowdfunding\domain\AjaxResult.java

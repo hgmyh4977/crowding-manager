@@ -1,0 +1,12 @@
+cn\myh\crowdfunding\controller\PermissionController.class
+cn\myh\crowdfunding\controller\RoleController.class
+cn\myh\crowdfunding\controller\UserController.class
+cn\myh\crowdfunding\service\UserException.class
+cn\myh\crowdfunding\controller\DispatcherController.class
+cn\myh\crowdfunding\service\impl\UserServiceImpl.class
+cn\myh\crowdfunding\domain\User.class
+cn\myh\crowdfunding\domain\AjaxResult.class
+cn\myh\crowdfunding\service\UserService.class
+cn\myh\crowdfunding\web\listener\ServerStartUpListener.class
+cn\myh\crowdfunding\dao\UserDao.class
+cn\myh\crowdfunding\domain\Page.class
